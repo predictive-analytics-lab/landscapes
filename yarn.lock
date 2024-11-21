@@ -7310,9 +7310,9 @@ rete-react-render-plugin@^0.3.0:
   integrity sha512-iNEpJjqHO950WBE5CWw+WlFbV3D98Gx5tgnBp5y5ZniHEMzsqE0UuBjD9OdStVd+KmJfDEePoMiuOeFZPhEwHQ==
 
 rete-vue-render-plugin@^0.5.0:
-  version "0.5.1"
-  resolved "https://registry.yarnpkg.com/rete-vue-render-plugin/-/rete-vue-render-plugin-0.5.1.tgz#9a3bd212de76120ac9a247decb739e79cdbcc63b"
-  integrity sha512-U+lMn086TjnkiRkD/VAwG5PKJXmaAFgso8GbQsZusNhZtlA+jD/BO6UeBeanga4eBJAdaOWGai9BEnvCwDkynw==
+  version "0.5.2"
+  resolved "https://registry.yarnpkg.com/rete-vue-render-plugin/-/rete-vue-render-plugin-0.5.2.tgz#d316e1cdf30592256ae6073dc03dfd7b8e233a8c"
+  integrity sha512-yaT4spCzt9UcJvuijpczCimV/bPX4k10YTKOPkrOn4JUl2UWsYkAjbYsqZPM3zgBo/YrOamH8pyYT35eGCeCNQ==
   dependencies:
     vue "^2.6.6"
 
@@ -8447,23 +8447,13 @@ vue@2.5.17:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.17.tgz#0f8789ad718be68ca1872629832ed533589c6ada"
   integrity sha512-mFbcWoDIJi0w0Za4emyLiW72Jae0yjANHbCVquMKijcavBGypqlF7zHRgMa5k4sesdv7hv2rB4JPdZfR+TPfhQ==
 
-vue@^2.5.17:
-  version "2.6.14"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
-  integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
-
-vue@^2.6.12:
+vue@^2.5.17, vue@^2.6.12, vue@^2.6.6:
   version "2.7.9"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.7.9.tgz#ac3ccb4a4ac5dd31a8eec4c68a094efe7f83dfbb"
   integrity sha512-GeWCvAUkjzD5q4A3vgi8ka5r9bM6g8fmNmx/9VnHDKCaEzBcoVw+7UcQktZHrJ2jhlI+Zv8L57pMCIwM4h4MWg==
   dependencies:
     "@vue/compiler-sfc" "2.7.9"
     csstype "^3.1.0"
-
-vue@^2.6.6:
-  version "2.6.12"
-  resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
-  integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
 
 watchpack-chokidar2@^2.0.1:
   version "2.0.1"
